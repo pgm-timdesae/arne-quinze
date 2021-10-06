@@ -1,0 +1,27 @@
+[
+    {
+        "cat" : "Show all"
+    },
+    {
+        "cat" : "Book"
+    },
+    {
+        "cat" : "Documentary"
+    },
+    {
+        "cat" : "Exhibition"
+    },
+    {
+        "cat" : "Painting"
+    },
+    {
+        "cat" : "Public art"
+    },
+    {
+        "cat" : "Sculpture"
+    },
+    {
+        "cat" : "Study"
+    }
+]
+
